@@ -6,6 +6,4 @@ class Artist
 
 end
 
-artist = Artist.new
-artist.name = "The Shins"
-binding.pry
+
